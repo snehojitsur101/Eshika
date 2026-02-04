@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Eshika Fashion",
+  "description": "A high-end fashion e-commerce experience featuring the Summer Collection and an integrated AI Stylist powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
